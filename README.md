@@ -33,8 +33,8 @@ CREATE TABLE salary_log (
 ```
 ## insert values
 ```
-insert into employe values(1,'Kar','IT',1000000);
-insert into employe values(2,'Boha','SALES',500000)
+insert into employe values(1,'Raaj','IT',1000000);
+insert into employe values(2,'kaavya','SALES',500000)
 ```
 
 ## PLSQL Trigger code
